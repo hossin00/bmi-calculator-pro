@@ -1,0 +1,27 @@
+{
+  "name": "BMI Calculator Pro",
+  "short_name": "BMI",
+  "description": "BMI, body fat, and health metrics calculator.",
+  "start_url": "/bmi-calculator-pro/",
+  "scope": "/bmi-calculator-pro/",
+  "display": "standalone",
+  "background_color": "#080f08",
+  "theme_color": "#ec4899",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/bmi-calculator-pro/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/bmi-calculator-pro/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
